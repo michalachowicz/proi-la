@@ -1,7 +1,7 @@
-﻿#include <iostream>
+#include <iostream>
 #include "Samochod.h"
 using namespace std;
-
+//skompilowałem kod w visual studio 2019 i codeblocks
 int main()
 {
 #ifdef _DEBUG
