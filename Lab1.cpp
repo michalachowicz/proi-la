@@ -11,12 +11,6 @@ int main()
     s1.opis();
     cout<<s1.info()<<endl;
 
-    //Samochod s2("fiat", "tipo", "czarny", "dsf", "sdf");
-    //błąd konwersji typów - oczekiwano int a wpisano string
-    // 
-    //s1.przebieg = s1.przebieg * 10000;
-    //cout << s1.przebieg;
-    //wyjście poza rozmiar int - program liczy wartość, ale jest błędna
 
     float stan_konta = 0.0;
     float kwant = 0.01f;
